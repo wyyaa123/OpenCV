@@ -1,7 +1,0 @@
-[
-{
-  "directory": "E:/OpenCV/build",
-  "command": "C:\\Mingw-w64\\bin\\g++.exe   -g -o CMakeFiles\\opencv.dir\\main.cpp.obj -c E:\\OpenCV\\main.cpp",
-  "file": "E:/OpenCV/main.cpp"
-}
-]
