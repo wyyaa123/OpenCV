@@ -1,0 +1,3 @@
+C:/Users/南九的橘猫/Desktop/OpenCV/src/2.PlayVideo/out/build/x64-Debug/CMakeFiles/main.dir
+C:/Users/南九的橘猫/Desktop/OpenCV/src/2.PlayVideo/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/南九的橘猫/Desktop/OpenCV/src/2.PlayVideo/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
