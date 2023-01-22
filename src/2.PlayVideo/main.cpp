@@ -7,7 +7,7 @@ int main()
 {
 	cv::namedWindow("Example2", cv::WINDOW_AUTOSIZE);
 	cv::VideoCapture cap;
-	cap.open("C:\\Users\\南九的橘猫\\Desktop\\OpenCV\\videos\\video1.mp4");
+	cap.open("C:\\Users\\username\\Desktop\\OpenCV\\videos\\video1.mp4");
 	cv::Mat frame;
 	for (;;) {
 		cap >> frame;
